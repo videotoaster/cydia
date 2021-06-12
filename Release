@@ -1,0 +1,8 @@
+Origin: VideoToaster's Repo
+Label: Vidia
+Suite: stable
+Version: 0.1
+Codename: Vidia
+Architectures: iphoneos-arm
+Components: main
+Description: VideoToaster's Cydia repo
