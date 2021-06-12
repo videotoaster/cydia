@@ -1,2 +1,2 @@
 # cydia
-Vidja's Cydia repo. Statically hosted on GH pages. Super easy!
+Vidja's Cydia repo. Statically hosted on Netlify. Super easy!
